@@ -1,0 +1,10 @@
+20/11/2017 09:02:45.736 - [MainAppGUI.<init>] :
+	[INFO] - User has loaded main menu of GUI
+20/11/2017 09:02:54.511 - [MainAppGUI$1.actionPerformed] :
+	[INFO] - User pressed 'Show all existing packages in database'
+20/11/2017 09:02:54.735 - [MainAppGUI.displayInventoryUI] :
+	[INFO] - User in 'Package List' window
+20/11/2017 09:03:56.068 - [MainAppGUI$10.actionPerformed] :
+	[INFO] - User pressed 'Exit program'
+20/11/2017 09:03:56.079 - [MainAppGUI.closeOP] :
+	[INFO] - User has closed the program via 'Exit' in main menu, exit successful!
