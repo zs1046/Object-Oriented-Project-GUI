@@ -1,4 +1,9 @@
-# Project-5
+# Shipping Store Mangement Software
 
-<b>Project 5 UI</b>
+<b>Object Oriented Programming Project</b>
+
+This app is an inventory system for a shipping store written in Java.
+
+![Inventory](GUI.png)
+
 
